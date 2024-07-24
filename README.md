@@ -1,4 +1,4 @@
-# digital_rolemodel_twin
+# Digital rolemodel twin 
 
 ![image](https://github.com/user-attachments/assets/b401e86c-27ab-4ec6-987b-a7cf435ac354)
 
